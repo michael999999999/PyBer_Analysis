@@ -12,5 +12,7 @@ Ms. Isualize would like an analysis performed on the total weekly fares by city 
 
 Upon analysis of the weekly PyBer fares, it is clear that most revenue comes from Urban riders. Earlier analysis would indicate this is most likely due to the volume of riders in Urban cities versus those in Suburban and Rural cities. Conversely, earlier analysis also showed that rides in Urban cities tend to cost less than those in Suburban and Rural cities. 
 
-## Challenge Summary
+Revenue over time in the above analysis shows only a slight upward trend the further into the year we go. There is a slow rise from the beginning of the year with a short spike noticeable across all city types just before the month of March. It could be argued that the provided dataset does not have enough time to show definitive trends, perhaps viewing this information across the course of the year could prove more beneficial.
 
+## Challenge Summary
+In summation, there is a clear distinction in revenue per city type: Urban cities easily generate the most fares, followed by Suburban cities, then Rural cities. As previously mentioned, this could be attributed to the higher number of riders in the Urban cities. In order to bring the Suburban and Rural cities more in line with the Urban cities, there are two options: increase the number of riders, or increase the fare costs. 
